@@ -1,6 +1,6 @@
-@extends('layout.layout4')
+@extends('layout.layout1')
 
-@section('content4')
+@section('content')
 
 
 <!--==================================================-->
