@@ -1,0 +1,154 @@
+<!--==================================================-->
+<!-- Start solutek top header area -->
+<!--==================================================-->
+  <div class="top-header-area">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-8">
+          <div class="header-info">
+            <ul>
+              <li><i class="bi bi-geo-alt-fill"></i>New market Sandigo - California</li>
+              <li class="exam-gmail"><i class="bi bi-envelope"></i>example@gmail.com</li>
+              <li><i class="bi bi-alarm"></i>9.00 am - 5.00 pm</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="top-header-social-icon">
+            <ul>
+              <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+              <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!--==================================================-->
+<!-- End solutek top header area -->
+<!--==================================================-->
+
+
+
+
+<!--==================================================-->
+<!-- Start solutek Main Menu Area -->
+<!--==================================================-->
+<div id="sticky-header" class="solutek_nav_manu style-three">
+  <div class="container-fluid">
+    <div class="row d-flex align-items-center">
+      <div class="col-lg-2">
+        <div class="logo">
+          <a class="logo_img" href="{{ route('index') }}" title="solutek">
+            <img src="assets/images/logo.png" alt="logo">
+          </a>
+          <a class="main_sticky" href="{{ route('index') }}" title="solutek">
+            <img src="assets/images/footer-logo.png" alt="astute">
+          </a>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <nav class="solutek_menu">
+          <ul class="nav_scroll">
+            <li><a href="#">Home <i class="bi bi-chevron-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="{{ route('index') }}">Home Version 01</a></li>
+                <li><a href="{{ route('index2') }}">Home Version 02</a></li>
+                <li><a href="{{ route('index3') }}">Home Version 03</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Company <i class="bi bi-chevron-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="{{ route('about') }}">About Us</a></li>
+                <li><a href="{{ route('team') }}">Our Team</a></li>
+                <li><a href="{{ route('teamdetails') }}">Team Details</a></li>
+                <li><a href="{{ route('testimonial') }}">Testimonials</a></li>
+                <li><a href="{{ route('project') }}">Project</a></li>
+                <li><a href="{{ route('projectdetails') }}">Project Details</a></li>
+                <li><a href="{{ route('pricing') }}">Pricing</a></li>
+                <li><a href="{{ route('faq') }}">Faq</a></li>
+                <li><a href="{{ route('contact') }}">Contact</a></li>
+              </ul>
+            </li>
+            <li><a href="{{ route('project') }}">Portfolio</a></li>
+            <li><a href="#">Service <i class="bi bi-chevron-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="{{ route('service') }}">Service</a></li>
+                <li><a href="{{ route('servicedetails') }}">Service Details</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Blog <i class="bi bi-chevron-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="{{ route('bloggrid') }}">Blog Grid</a></li>
+                <li><a href="{{ route('blog2coulmn') }}">Blog 2Column</a></li>
+                <li><a href="{{ route('blogdetails') }}">Blog Details</a></li>
+              </ul>
+            </li>
+            <li><a href="{{ route('contact') }}">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="col-lg-3">
+        <div class="header-menu-btn">
+          <div class="sidebar-button">
+            <a class="nav-btn navSidebar-button" href="#"><i class="fas fa-bars"></i></a> 
+          </div>
+          <div class="solutek-btn">
+            <a class="btn-2" href="{{ route('contact') }}">Get A Quote NOW</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- solutek Mobile Menu Area -->
+<div class="mobile-menu-area sticky d-sm-block d-md-block d-lg-none ">
+  <div class="mobile-menu">
+    <nav class="solutek_menu">
+      <ul class="nav_scroll">
+            <li><a href="#">Home <i class="bi bi-chevron-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="{{ route('index') }}">Home Version 01</a></li>
+                <li><a href="{{ route('index2') }}">Home Version 02</a></li>
+                <li><a href="{{ route('index3') }}">Home Version 03</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Company <i class="bi bi-chevron-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="{{ route('about') }}">About Us</a></li>
+                <li><a href="{{ route('team') }}">Our Team</a></li>
+                <li><a href="{{ route('teamdetails') }}">Team Details</a></li>
+                <li><a href="{{ route('testimonial') }}">Testimonials</a></li>
+                <li><a href="{{ route('project') }}">Project</a></li>
+                <li><a href="{{ route('projectdetails') }}">Project Details</a></li>
+                <li><a href="{{ route('pricing') }}">Pricing</a></li>
+                <li><a href="{{ route('faq') }}">Faq</a></li>
+                <li><a href="{{ route('contact') }}">Contact</a></li>
+              </ul>
+            </li>
+            <li><a href="{{ route('project') }}">Portfolio</a></li>
+            <li><a href="#">Service <i class="bi bi-chevron-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="{{ route('service') }}">Service</a></li>
+                <li><a href="{{ route('servicedetails') }}">Service Details</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Blog <i class="bi bi-chevron-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="{{ route('bloggrid') }}">Blog Grid</a></li>
+                <li><a href="{{ route('blog2coulmn') }}">Blog 2Column</a></li>
+                <li><a href="{{ route('blogdetails') }}">Blog Details</a></li>
+              </ul>
+            </li>
+            <li><a href="{{ route('contact') }}">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</div>
+<!--==================================================-->
+<!-- End solutek Main Menu Area -->
+<!--==================================================-->
