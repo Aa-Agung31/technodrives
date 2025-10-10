@@ -460,7 +460,190 @@
 <!-- end solutek-faq Area -->
 <!--==================================================-->
 
+<div class="team-area style-two">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section-title text-center">
+					<h5 class="section-sub-title">OUR Project</h5>
+					<!-- <h1 class="section-main-title">Dedicated Team Members</h1> -->
+				</div>
+			</div>
+		</div>
 
+		<!-- Transformer -->
+
+		<div class="row">
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="single-team-box">
+					<div class="single-team-thumb">
+						<img src="assets/images/36.jpeg" alt="thumb">
+						<div class="team-content">
+							<div class="team-inner-title">
+								<h4><a href="{{ route('teamdetails') }}">Documentation</a></h4>
+								<p>Transformer</p>
+							</div>
+							<div class="team-social-icon">
+								<ul>
+									<li><a href="#">facebook</a></li>
+									<li><a href="#">twitter</a></li>
+									<li><a href="#">behance</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="single-team-box">
+					<div class="single-team-thumb">
+						<img src="assets/images/37.jpeg" alt="thumb">
+						<div class="team-content">
+							<div class="team-inner-title">
+								<h4><a href="{{ route('teamdetails') }}">Documentation</a></h4>
+								<p>Transformer</p>
+							</div>
+							<div class="team-social-icon">
+								<ul>
+									<li><a href="#">facebook</a></li>
+									<li><a href="#">twitter</a></li>
+									<li><a href="#">behance</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="single-team-box">
+					<div class="single-team-thumb">
+						<img src="assets/images/38.jpeg" alt="thumb">
+						<div class="team-content">
+							<div class="team-inner-title">
+								<h4><a href="{{ route('teamdetails') }}">Documentation</a></h4>
+								<p>Transformer</p>
+							</div>
+							<div class="team-social-icon">
+								<ul>
+									<li><a href="#">facebook</a></li>
+									<li><a href="#">twitter</a></li>
+									<li><a href="#">behance</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="single-team-box">
+					<div class="single-team-thumb">
+						<img src="assets/images/39.jpeg" alt="thumb">
+						<div class="team-content">
+							<div class="team-inner-title">
+								<h4><a href="{{ route('teamdetails') }}">Documentation</a></h4>
+								<p>Transformer</p>
+							</div>
+							<div class="team-social-icon">
+								<ul>
+									<li><a href="#">facebook</a></li>
+									<li><a href="#">twitter</a></li>
+									<li><a href="#">behance</a></li>
+								</ul>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- Data Center -->
+
+		<div class="row">
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="single-team-box">
+					<div class="single-team-thumb">
+						<img src="assets/images/8.jpeg" alt="thumb">
+						<div class="team-content">
+							<div class="team-inner-title">
+								<h4><a href="{{ route('teamdetails') }}">Documentation</a></h4>
+								<p>Data Center</p>
+							</div>
+							<div class="team-social-icon">
+								<ul>
+									<li><a href="#">facebook</a></li>
+									<li><a href="#">twitter</a></li>
+									<li><a href="#">behance</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="single-team-box">
+					<div class="single-team-thumb">
+						<img src="assets/images/9.jpeg" alt="thumb">
+						<div class="team-content">
+							<div class="team-inner-title">
+								<h4><a href="{{ route('teamdetails') }}">Documentation</a></h4>
+								<p>Data Center</p>
+							</div>
+							<div class="team-social-icon">
+								<ul>
+									<li><a href="#">facebook</a></li>
+									<li><a href="#">twitter</a></li>
+									<li><a href="#">behance</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="single-team-box">
+					<div class="single-team-thumb">
+						<img src="assets/images/12.jpeg" alt="thumb">
+						<div class="team-content">
+							<div class="team-inner-title">
+								<h4><a href="{{ route('teamdetails') }}">Documentation</a></h4>
+								<p>Data Center</p>
+							</div>
+							<div class="team-social-icon">
+								<ul>
+									<li><a href="#">facebook</a></li>
+									<li><a href="#">twitter</a></li>
+									<li><a href="#">behance</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xl-3 col-lg-4 col-md-6">
+				<div class="single-team-box">
+					<div class="single-team-thumb">
+						<img src="assets/images/11.jpeg" alt="thumb">
+						<div class="team-content">
+							<div class="team-inner-title">
+								<h4><a href="{{ route('teamdetails') }}">Documentation</a></h4>
+								<p>Data Center</p>
+							</div>
+							<div class="team-social-icon">
+								<ul>
+									<li><a href="#">facebook</a></li>
+									<li><a href="#">twitter</a></li>
+									<li><a href="#">behance</a></li>
+								</ul>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 
 
 
